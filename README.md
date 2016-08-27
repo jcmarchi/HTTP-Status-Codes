@@ -10,7 +10,7 @@ The official codes have a reference to their RFC document while the unofficial o
 
 The reason why I put together this *Array* was because, more than once, I found myself needing to review HTTP responses in my programs, thus this file was created. 
 
-During the processing of collecting information to compose this file I realized most of the lists I was reviwing didn't exactly match. Some had more or less codes, while others differed in the *labels* and *definitions* presented. But, what was even more peculiar was to find uncountable unnoficial codes in common usage lists, and then come to the realization other lists completelly missed a handfull of officialized codes. Because of that, also because my reseach also showed me that it was not uncommon to find those unnoficial **HTTP Status Codes** present in existing products, I decided to include all of them in my final *Array*. Afterall, official or not, it is always good to have the most accurate and complete data handy.
+During the processing of collecting information to compose this file I realized most of the lists I was reviewing didn't exactly match. Some had more or less codes, while others differed in the *labels* and *definitions* presented. However, what I found specially peculiar was that unnoficial codes were commonly present in reference lists, while in some cases  a handfull of official codes were simply ignored. Because of that, and because my reseach also showed me that some of those *unnoficial* codes were still present in current products, I decided to include all of them in my final *Array*. Afterall, official or not, it is always good to have the most accurate and complete data.
 
 The **HTTP Status Codes** (also commonly referenced as "*Response Codes*") are divided in:
 
