@@ -1,44 +1,38 @@
 <?php
 /**
-* HTTP Status Codes - Array List - Complete +
+* HTTP Status Codes - Array List - Complete with Extras
 * @since      File available since August 2016.
 * @category   Extension/Addon/DataHandler
 * @version    0.00.28a
 * PHP version: Any
 *
-*
 * @copyright  2016 MOODFIRED.ORG - A Global COMPEL Company (globalcompel.com).
 * @link       http://moodfired.org/HTTP-Status-Codes
-*
 * @author     Julio Marchi <jmarchi@moodfired.org> - Twitter: @MrMarchi
-* @author     Viktor Bludov <vbludov@moodfired.org>
-*             Special Thanks to Eliazer Kosciuk (KLAXMSX).
 *
-* --------------------------------------------
+* -----------------------------------------------------------------------------
 * This is the most comprehensive list of reference of "HTTP Status Codes" to
-* date, ready to be used by PHP any applciations.
-*
-* LICENSE:
-* Copyright (c) <year> <copyright holders>
-*
-* Permission is hereby granted, free of charge, to any person obtaining a copy 
-* of this software and associated documentation files (the "Software"), to deal 
-* in the Software without restriction, including without limitation the rights 
-* to use, copy, modify, merge, publish, distribute, sublicense, and/or sell 
-* copies of the Software, and to permit persons to whom the Software is 
+* date, ready to be used in any PHP application.
+*-----------------------------------------------------------------------------
+* 
+* MIT License
+* Permission is hereby granted, free of charge, to any person obtaining a copy
+* of this software and associated documentation files (the "Software"), to deal
+* in the Software without restriction, including without limitation the rights
+* to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+* copies of the Software, and to permit persons to whom the Software is
 * furnished to do so, subject to the following conditions:
-*
-* The above copyright notice and this permission notice shall be included in 
-* all copies or substantial portions of the Software.
-*
-* THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
-* IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, 
+* 
+* The above copyright notice and this permission notice shall be included in all
+* copies or substantial portions of the Software.
+* 
+* THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+* IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
 * FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-* AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER 
-* LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, 
+* AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+* LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 * SOFTWARE.
-* @license    http://www.apache.org/licenses/LICENSE-2.0
 */
 
 /**
@@ -163,9 +157,6 @@ if (! isset($HTTP_Status_Code)):
        '530' => "Site Is Frozen",                  // UNOFFICIAL, Pantheon
        '598' => "Network Read Timeout Error",      // UNOFFICIAL, Microsoft HTTP proxy
        '599' => "Network Connect Timeout Error"    // UNOFFICIAL, Microsoft HTTP proxy
-
-       /**
-        * 6×× MOODFIRED Reserved
-        */
+       
     );
 endif;
