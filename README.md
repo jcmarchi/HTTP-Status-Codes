@@ -12,19 +12,19 @@ The reason why I put together this *Array* was because, more than once, I found 
 
 During the processing of collecting iformation for this file I realized most of the list I was reviwing didn't exactly match. Some had more or less codes, while others differed in the *labels* and *definitions* presented. But, what waseven more peculiar was to find uncountable unnoficial codes in common usage lists, and then come to the realization other lists completelly missed a handfull of officialized codes. Because of that, also because my reseach also showed me that it was not uncommon to find those unnoficial Status Codes present in existing products, I decided to include all of them in my final *Array*. Afterall, official or unofficial, it is always good to have the most accurate and complete data handy.
 
-The HTTP Status Codes (also commonly referenced as "Response Codes") are divided in:
+The **HTTP Status Codes** (also commonly referenced as "*Response Codes*") are divided in:
 
-* 1xx: Informational - Request received, continuing process.
-* 2xx: Success - The action was successfully received, understood, and accepted.
-* 3xx: Redirection - Further action must be taken in order to complete the request.
-* 4xx: Client Error - The request contains bad syntax or cannot be fulfilled.
-* 5xx: Server Error - The server failed to fulfill an apparently valid request.
+* **1xx: Informational**: Request received, continuing process.
+* **2xx: Success**: The action was successfully received, understood, and accepted.
+* **3xx: Redirection**: Further action must be taken in order to complete the request.
+* **4xx: Client Error**: The request contains bad syntax or cannot be fulfilled.
+* **5xx: Server Error**: The server failed to fulfill an apparently valid request.
 
 
 ### Important Remarks:
 
- 1. If a Status Code is not listed, then it is "Unassigned".
- 2. Where reads "UNOFFICIAL" in the list below it means the code is not specified by any RFC, but may be used (or is available to be used) by third-party services to provide semantic or RESTful error responses. More at: https://en.wikipedia.org/wiki/Representational_state_transfer
+ 1. If a **Status Code** is not listed in the *Array*, then it can be understood as "Unassigned".
+ 2. In the commented lines, where it reads "**UNOFFICIAL**" it means the code is not specified by any RFC document, but may be used (or is available to be used) by third-party services to provide semantic or RESTful error responses. More at: https://en.wikipedia.org/wiki/Representational_state_transfer
 
 
 ### Important Remarks:
