@@ -27,7 +27,7 @@ The **HTTP Status Codes** (also commonly referenced as "*Response Codes*") are d
  2. In the commented lines, where it reads "**UNOFFICIAL**" it means the code is not specified by any RFC document, but may be used (or is available to be used) by third-party services to provide semantic or `RESTful` error responses. More at: <a href="https://en.wikipedia.org/wiki/Representational_state_transfer" target="_blank">Wikipedia</a>.
 
 
-### Important Remarks:
+### References:
 
 * [HTTP Status Codes Reference](http://www.iana.org/assignments/http-status-codes/http-status-codes.xhtml) at Wikipedia.
 * [More about Status Codes](http://getstatuscode.com/) in a private own site.
