@@ -3,7 +3,7 @@
 * HTTP Status Codes - Array List - Complete with Extras
 * @since      File available since August 2016.
 * @category   Extension/Addon/DataHandler
-* @version    0.00.28a
+* @version    0.01.28a
 * PHP version: Any
 *
 * @copyright  2016 MOODFIRED.ORG - A Global COMPEL Company (globalcompel.com).
