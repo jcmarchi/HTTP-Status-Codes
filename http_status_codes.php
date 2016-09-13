@@ -154,6 +154,7 @@ $HTTP_Status_Code = array(
    '528' => "Unauthorized Access To Route",    // UNOFFICIAL, MOODFIRED
    '529' => "Route Resolution Error",          // UNOFFICIAL, MOODFIRED
    '530' => "Site Is Frozen",                  // UNOFFICIAL, Pantheon
+   '531' => "Fatal Error or Exception",        // UNOFFICIAL, SHERLOCK (MOODFIRED Family of Products)
    '598' => "Network Read Timeout Error",      // UNOFFICIAL, Microsoft HTTP proxy
    '599' => "Network Connect Timeout Error"    // UNOFFICIAL, Microsoft HTTP proxy
 
