@@ -161,6 +161,7 @@ $HTTP_Status_Code = array(
    /**
     * 6×× Unused / Reserved
     */
+   '666' => "Everything has gone to Hell!",    // UNOFFICIAL, MOODFIRED
 
 
    /**
